@@ -1,0 +1,15 @@
+.img {
+    flex: 0 1 25%;
+    border: 1px solid black;
+    margin: 0;
+}
+
+.buttonContainer {
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center;
+}
+
+.title {
+    flex: 1 1 auto;
+}
