@@ -8,6 +8,8 @@
     padding: 0 !important;
     display: flex !important;
     align-items: center;
+    background-color: #5f2134 !important;
+    border-color: #5f2134 !important;
 }
 
 .title {

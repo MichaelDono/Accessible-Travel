@@ -12,6 +12,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const IndexPage = () => (
   <Layout>
     <LargeButton title="Arrange Assistance" />
+    <LargeButton title="Travel Updates" />
     <LargeButton title="My Details" />
   </Layout>
 )
